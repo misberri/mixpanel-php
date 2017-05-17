@@ -7,6 +7,7 @@
     ],
     "homepage": "https://mixpanel.com/help/reference/php",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Mixpanel <dev@mixpanel.com>",
